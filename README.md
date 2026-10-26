@@ -1,4 +1,4 @@
-# Hi, I'm Charles Wright II
+# Hi, I'm Charles Wright
 
 **IT Operations & Security Professional** | Windows/Azure • Vulnerability Management • Security Monitoring • Networking
 
