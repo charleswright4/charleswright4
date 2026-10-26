@@ -1,6 +1,6 @@
 # Hi, I'm Charles Wright
 
-**IT Operations & Security Professional** | Windows/Azure • Vulnerability Management • Security Monitoring • Networking
+**IT Operations & Security Professional** | Windows/Azure • Vulnerability Management / Network Security Monitoring
 
 I keep systems running, find what's risky, and fix it in a way the business can actually live with. I work in enterprise IT operations and security, and I build labs to sharpen the security side of that work. Everything below is documented step by step so you can see how I think, not just what I list on a resume.
 
