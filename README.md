@@ -5,13 +5,13 @@
 <h2>👨‍💻 Infrastructure & Security Projects</h2>
 
 - <b>Vulnerability Management</b>
-  - <a href="REPLACE_WITH_LINK">Enterprise Vulnerability Management & Remediation</a>
+  - <a href="https://github.com/charleswright4/Infrastructure-Security-Labs/blob/main/vulnerability-management-program.md">Enterprise Vulnerability Management & Remediation</a>
 
 - <b>Security Operations</b>
-  - <a href="REPLACE_WITH_LINK">Azure Sentinel RDP Honeypot & Attack Map</a>
+  - <a href="https://github.com/charleswright4/Infrastructure-Security-Labs/blob/main/azure-sentinel-rdp-honeypot.md">Azure Sentinel RDP Honeypot & Attack Map</a>
 
 - <b>Infrastructure Hardening</b>
-  - <a href="REPLACE_WITH_LINK">Cisco IOS & Active Directory Hardening</a>
+  - <a href="https://github.com/charleswright4/Infrastructure-Security-Labs/blob/main/network-ad-hardening.md">Cisco IOS & Active Directory Hardening</a>
 
 <h2>📜 Certifications</h2>
 
