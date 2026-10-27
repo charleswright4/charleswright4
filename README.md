@@ -17,9 +17,10 @@
 
 - CompTIA Security+
 - CompTIA A+
+- Linux Essentials Professional Development Certificate (In Progress)
+- ITIL 4 Foundation
 - ISC2 Certified in Cybersecurity (CC)
 - Cisco CyberOps Associate
-- ITIL 4 Foundation
 - CCNA (In Progress)
 
 <h2>🤳 Connect with me</h2>
